@@ -1,0 +1,24 @@
+/* Odd Elements class */
+.class {
+  background-color: #ffc0cb;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* ID element */
+#id {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+/* Element 3 Font change */
+.class.font {
+  font-size: 24px;
+}
+
+/* 4th element  */
+#color {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: cursive;
+}
