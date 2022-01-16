@@ -1,0 +1,14 @@
+/* Both */
+.first .second {
+  font-size: 28px;
+  font-family: helvetica, "Times New Roman", sans-serif;
+}
+/* First */
+.first {
+  background-color: #000;
+  color: #fff;
+}
+/* Second*/
+.second {
+  background-color: #ffff00;
+}
